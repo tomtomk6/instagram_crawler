@@ -1,4 +1,4 @@
-### Overview
+# Overview
 
 This project is a case study to simulate an Instagram Bot, trying to mimic the natural engagement of a user in the desktop browser and doing stuff like browsing through the feed, liking or commenting. The crawler itself is based on the selenium webdriver library, which can simulate browser interaction.
 
